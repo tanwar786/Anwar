@@ -6,3 +6,7 @@ Welcome to kitechen
 kheer
 pasta
 chicken fry
+
+beans
+
+mutton
